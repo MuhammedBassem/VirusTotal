@@ -1,5 +1,5 @@
 # What is VirusTotal repository ?
- This repo"VirusTotal" is an open-source script,  based on python which can interact with the [website] (https://www.virustotal.com/gui/home/search) of Virus Total .
+ This repo"VirusTotal" is an open-source script,  based on python which can interact with the [Website](https://www.virustotal.com/gui/home/search)of Virus Total .
 # features 
 
   * The main purpose of creating this repo "VirusTotal" is for takes IP OR Domain OR URL OR Hash, submit it to virustotal.com for analysis using their API and returns the result.
