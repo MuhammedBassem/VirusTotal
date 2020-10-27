@@ -18,6 +18,7 @@
  
  * HTTP library for Python `Requests`.
  
+ * Beautiful Soup libirary for pulling data out of HTML `bs4`.
 
 
 # Installation
