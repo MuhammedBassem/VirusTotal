@@ -22,7 +22,7 @@
 
 # Installation
 
- * Download the repo of `VirusTota` by using this command : ```git clone https:/#/github.com/MuhammedBassem/VirusTotal```
+ * Download the repo of `VirusTota` by using this command : ```https://github.com/MuhammedBassem/VirusTotal```
    
  * Install the HTTP library by using this command : `pip install requests`
  
