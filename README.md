@@ -24,7 +24,7 @@
 
  * Download the repo of `VirusTotal` by using this command : ```git clone https://github.com/MuhammedBassem/VirusTotal```
    
- * Install the HTTP library by using this command : `pip install requests`
+ * Install the libraries HTTP and bs4 by using these commands : `pip install requests` , `pip install bs4`
  
  * Run VirusTotal by double click on the script file of `virustotal.py`.
 
